@@ -1,0 +1,20 @@
+# ninja log v5
+1	271	1664476514272911769	CMakeFiles/untitled2.dir/operators.cpp.o	20ad2889c0f5b6b9
+0	10	1664438525643244853	CMakeFiles/untitled2.dir/main.cpp.o	716d4d8a176bcde7
+1	236	1664443431072863141	CMakeFiles/untitled2.dir/assignment.cpp.o	76a2d185b9f19dd9
+1	237	1664477315293918955	CMakeFiles/untitled2.dir/homework.cpp.o	3e11b7d59a826a84
+0	285	1664451193732357220	CMakeFiles/untitled2.dir/formatting.cpp.o	98b2c3ff44bea68a
+1	1323	1664454520716272010	CMakeFiles/untitled2.dir/circle.cpp.o	836838efd9f6c9b8
+0	269	1664438577620172418	CMakeFiles/untitled2.dir/myfirstprogram.cpp.o	e5a6f3f6d5a01d10
+237	288	1664477315341918662	untitled2	bbe1bba2fffe21e9
+0	306	1664442451394050068	CMakeFiles/untitled2.dir/namespaces.cpp.o	7ff7579e7cad17ad
+1	677	1664441839335623417	CMakeFiles/untitled2.dir/userinputs.cpp.o	8ca3e7173a223ba
+47	1157	1664483615909288535	CMakeFiles/untitled2.dir/tenary.cpp.o	9b673d5cfd0b9fdd
+46	1157	1664483615909288535	CMakeFiles/untitled2.dir/homework.cpp.o	3e11b7d59a826a84
+1157	1658	1664483616409283253	untitled2	deb2b3b40630a04e
+0	359	1664483723660146825	CMakeFiles/untitled2.dir/tenary.cpp.o	9b673d5cfd0b9fdd
+360	415	1664483723716146230	untitled2	deb2b3b40630a04e
+0	251	1664484056216588402	CMakeFiles/untitled2.dir/tenary.cpp.o	9b673d5cfd0b9fdd
+251	307	1664484056272587800	untitled2	deb2b3b40630a04e
+1	250	1664484098988127980	CMakeFiles/untitled2.dir/tenary.cpp.o	9b673d5cfd0b9fdd
+250	304	1664484099044127376	untitled2	deb2b3b40630a04e
