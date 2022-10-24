@@ -4,7 +4,7 @@
 #include <iostream>
 using namespace std;
 
-int main() {
+int tenary() {
     float marks;
     string status;
     char grade;
@@ -15,4 +15,12 @@ int main() {
     grade = marks >= 16 ? 'A' : marks > 14 ?  'B': marks >=10 ? 'C' : 'D';
     cout<<"You have " <<status << " !!!!!!" <<endl;
     cout<<"Your Grade is " << grade;
+    cout<<"12 & 25 =  " << (12 & 25);
+    cout<<"12 | 25 =  " << (12 | 25);
+    cout<<"12 ^ 25 =  " << (12 ^ 25);
+    cout<<"12 ^ 25 =  " << (25 >> 3);
+    cout<<"12 ^ 25 =  " << (25 >> 2);
+    cout<<"12 ^ 25 =  " << (12 << 3);
+    cout<<"12 ^ 25 =  " << (12 << 1);
+    cout<<"12 ^ 25 =  " << (12 >> 1);
 }
